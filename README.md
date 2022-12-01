@@ -6,4 +6,6 @@ To analyze school district performance using PythonData
 
 -Python 
 
--Student data csv
+-New Full Student Data csv file
+
+-Starter Code file
