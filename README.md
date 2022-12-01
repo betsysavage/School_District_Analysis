@@ -4,8 +4,8 @@ To analyze school district performance using PythonData
 ## Resources ##
 -Jupyter Notebook
 
--Python 
+-Python 3.7 
 
 -New Full Student Data csv file
 
--Starter Code file
+-Student_Data_Challenge starter code file
